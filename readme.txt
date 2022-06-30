@@ -1,3 +1,5 @@
-Create this file while learing git. 
-To try add and commit operation
-Adding this line..
+Create this file while learing git
+
+Git is a distributed bersion control system.
+Git is free software distributed under the GPL.
+Git has a multable index called stage.
